@@ -30,3 +30,30 @@ header{
     color:#d7d8d1;
     text-decoration: none;
 }
+
+ul.menu {
+    font-size: 20px;
+    color:#145A32;
+    text-decoration: none;
+    list-style: none;
+    float: right;
+}
+
+ul.menu li{
+    list-style: none;
+    display: inline-block;
+    text-decoration: none;
+    }
+
+    ul.menu li a{
+        text-decoration: none;
+        color:black;
+        margin: 20px;
+        display: block;
+    }
+
+.titulo {
+    font-size: 60px;
+    color:black;
+
+} 
