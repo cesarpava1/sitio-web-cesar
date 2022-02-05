@@ -37,6 +37,7 @@ ul.menu {
     text-decoration: none;
     list-style: none;
     float: right;
+    
 }
 
 ul.menu li{
@@ -54,6 +55,36 @@ ul.menu li{
 
 .titulo {
     font-size: 60px;
-    color:black;
+    color:blanchedalmond;
 
 } 
+
+.logo{
+    width: 100px;
+}
+
+.banner{
+    background: url("../images/fruits-canasta.jpg");
+    min-height: 500px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.pt-6{
+    padding-top: 4rem;
+    font-weight: 500;
+    color:blanchedalmond;
+
+}
+
+.botton1{
+    color:white;
+    font-weight:500;
+    
+    
+}
+
+.botton1:hover {
+    color:white;
+}
