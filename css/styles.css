@@ -55,7 +55,7 @@ ul.menu li{
 
 .titulo {
     font-size: 60px;
-    color:blanchedalmond;
+    color:white;
 
 } 
 
@@ -74,7 +74,7 @@ ul.menu li{
 .pt-6{
     padding-top: 4rem;
     font-weight: 500;
-    color:blanchedalmond;
+    color:white;
 
 }
 
@@ -87,4 +87,10 @@ ul.menu li{
 
 .botton1:hover {
     color:white;
+    background:black;
+
 }
+
+
+    
+
