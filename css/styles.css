@@ -25,10 +25,10 @@ header{
     color:#d7d8d1;
 }
 
-.contacto{
+.contact-info a{
     font-size:20px; 
-    color:#d7d8d1;
-    text-decoration: none;
+    color:white;
+text-decoration:none;
 }
 
 ul.menu {
@@ -36,7 +36,6 @@ ul.menu {
     color:#145A32;
     text-decoration: none;
     list-style: none;
-    float: right;
     
 }
 
@@ -147,5 +146,35 @@ ul,li{
     display: block;
 }
 
+.container3{
+    margin-left:50px;
+}
 
+.container4 p{
+    font-size:15px;
+    margin-left:50px;
+    margin-right:50px;
+    padding-top:30px;
+}
 
+.container5{
+    padding-top: 20px;
+}
+
+.container6 a{
+    color: black;
+    font-size:25px; 
+    text-decoration:none;
+}
+
+icon-tel2{
+    font-size:20px;
+}
+
+.container6 img{
+   
+    margin-left:50px;
+    padding-right:40px;
+    image-orientation:from-image;
+   
+}
