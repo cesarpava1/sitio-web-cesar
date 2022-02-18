@@ -176,5 +176,19 @@ icon-tel2{
     margin-left:50px;
     padding-right:40px;
     image-orientation:from-image;
-   
+    padding-bottom:50px;
+    
+}
+
+.container6 a{
+    margin-right:200px;
+}
+
+.titulo3 Sabores{
+    background:url
+    min-height: 50px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+
 }
