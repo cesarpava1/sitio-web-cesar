@@ -184,11 +184,58 @@ icon-tel2{
     margin-right:200px;
 }
 
-.titulo3 Sabores{
-    background:url
-    min-height: 50px;
+.Sabores{
+    background-image:url("../images/jugos-sabores.jpg");
+    min-height:20px;
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 250px;
+    height:250px;
+    color: white;
+}
+
+.Funcionales{
+    background-image:url("../images/jugos-saludables.jpg");
+    min-height:20px;
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
+    width:250px;
+    height:250px;
+    margin-left:200px ;
+    color: white;
+}
 
+.Exoticas{
+    background-image:url("../images/jugos-de-frutas-tropicales.jpg");
+    min-height:20px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    width:250px;
+    height:250px;
+    margin-left:150px;
+    color: white;
+}
+
+.botton6 {
+    color: white;
+    font-weight: 500;
+}
+
+
+.botton6:hover{
+    color: white;
+    background: black;
+}
+
+.container7 a{
+    color:black;
+    font-weight:500;
+    font-size:20px;
+    font-style: normal;
+    text-decoration: none;
+    padding-bottom:30px;
+    margin-left:50px;
 }
